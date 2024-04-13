@@ -3,6 +3,8 @@
 ## Description:
 Explore a curated dataset of Bollywood and Hollywood movies for insightful analysis. Dive into movie details such as release year, ratings, studio, budget, and revenue. Uncover trends and patterns using data science techniques.
 
+Live Dashboard [Link](https://public.tableau.com/app/profile/prayuja.teli/viz/MovieDataAnalysisProject/Dashboard1)
+
 ## Problem Statement:
 Movie enthusiasts and industry analysts require a robust tool to analyze Bollywood and Hollywood movie data comprehensively. They seek insights into various aspects such as release trends, ratings, budget vs. revenue analysis, and studio performance to make informed decisions and predictions.
 
@@ -15,11 +17,6 @@ Movie enthusiasts and industry analysts require a robust tool to analyze Bollywo
 6. Develop predictive models for revenue forecasting or rating prediction.
 7. Evaluate model performance and iterate for improvements.
 8. Document findings, insights, and methodologies for presentation and future reference.
-
-Live Dashboard [Link](https://public.tableau.com/app/profile/prayuja.teli/viz/MovieDataAnalysisProject/Dashboard1)
-
-## Problem statement
-## Task List
 
 ## Dashboard
 <p align="center">
