@@ -17,12 +17,7 @@ Movie enthusiasts and industry analysts require a robust tool to analyze Bollywo
 6. Develop predictive models for revenue forecasting or rating prediction.
 7. Evaluate model performance and iterate for improvements.
 8. Document findings, insights, and methodologies for presentation and future reference.
-
-## Dashboard
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PrayujaTeli/Box-Office-Analytics-Unveiling-Blockbuster-Secrets/main//Dashboard 1.png" alt="Movie Data Analysis Project Dashboard">
-</p>
-
+   
 ### Key Features:
 - Dataset curated for Bollywood and Hollywood movies.
 - Information includes release year, ratings, studio, budget, and revenue.
